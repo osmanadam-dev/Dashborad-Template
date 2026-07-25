@@ -1,6 +1,6 @@
 # Dashborad-Template<img width="1880" height="850" alt="Screenshot 2026-07-25 171509" src="https://github.com/user-attachments/assets/b9d07894-a4d8-4cdc-82e3-7bd1a0f2221b" />
 
-A responsive HTML/CSS dashboard template called  — a fully functional UI kit with multiple pages for personal dashboard management. It's designed for developers to use as a starter template for building dashboard interfaces with features like project tracking, user profiles, settings, and activity monitoring.
+A responsive HTML/CSS dashboard template — a fully functional UI kit with multiple pages for personal dashboard management. It's designed for developers to use as a starter template for building dashboard interfaces with features like project tracking, user profiles, settings, and activity monitoring.
 
 ### Stack
 - **Language(s):** HTML5, CSS3, JavaScript
